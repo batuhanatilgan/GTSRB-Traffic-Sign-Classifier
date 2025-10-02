@@ -24,22 +24,3 @@ Görüntü İşleme	OpenCV (Görüntü boyutlandırma ve ön işleme)
 Görselleştirme	Matplotlib (Doğruluk/Kayıp Grafikleri)
 Ortam	Google Colab
 
-E-Tablolar'a aktar
-⚙️ Proje Nasıl Çalıştırılır?
-Projenin tüm adımları GTSRB_CNN.ipynb (veya benzeri bir isimdeki) Jupyter Notebook dosyasında adım adım mevcuttur.
-
-Ortam Hazırlığı: Google Colab'da yeni bir Notebook açın veya dosyayı yükleyin.
-
-Kaggle API: Kaggle API anahtarınızı (JSON dosyası) Colab ortamına yükleyin.
-
-Hücreleri Çalıştırma: Notebook'taki hücreleri sırasıyla çalıştırarak:
-
-Veri setini indirin ve çıkarın.
-
-Veriyi yükleyin, ön işleme yapın ve model mimarisini oluşturun.
-
-Modeli eğitin.
-
-Grafikleri kontrol edin.
-
-Son hücredeki inference_single() fonksiyonunu, bir test görüntüsünün dosya yolunu vererek çalıştırın.
